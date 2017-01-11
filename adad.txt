@@ -1,5 +1,4 @@
 dadadasadfs
 
 Creating a new branch is quick
-wo insert into git test successfully
-.
+wo insert into git test successfully.and creating new branch is quick and  simple
